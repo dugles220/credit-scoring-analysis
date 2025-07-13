@@ -6,3 +6,4 @@ data.csv
 
 # Игнорировать системные папки Python
 __pycache__/
+.ipynb_checkpoints/
